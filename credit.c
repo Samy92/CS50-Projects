@@ -1,3 +1,5 @@
+// Credit project for CS50
+
 #include <stdio.h>
 
 void CardChecker();
